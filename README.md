@@ -1,4 +1,4 @@
-# sistema-de-armarios
+# Sistemas de Armários
 O código deve gerir 8 armários de forma que o usuário pode escolher ocupar aleatoriamente um armário ou desocupar um armário especifico, além de imprimir quais armários estão ocupados e desocupados.
 
 ## Código
